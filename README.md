@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**baboolya/baboolya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> # Hi, I'm baboolya — Unity Developer
+> 
+> 🛠 Tech Stack: C#, Unity, WebGL, Mobile (Android/iOS).
+> 🚀 Experience: 4+ released projects on Yandex Games. 
+> 🧠 Background: Electrical Engineering & Narrative Design.
+> 
+> My focus is on creating clean, performant code and engaging gameplay mechanics. I love working at the intersection of technical logic and storytelling.
+> 
+> ### My Featured Projects:
+> * [CardPoker](https://github.com/baboolya/MelGameNew) — Async logic & Algorithms.
+> * [AimTrainer](https://github.com/baboolya/ReactGame) — Performance & WebGL optimization.
+> * [Visual Novel](https://github.com/baboolya/TLE) — Architecture & Refactoring.
+> 
